@@ -6,5 +6,5 @@ def max(n1,n2,n3):
     else:
         return n3
 
-    print(max(6,8,10))
+    print(max(16,8,10))
 
